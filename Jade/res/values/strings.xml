@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jade</string>
+    <string name="action_settings">Settings</string>
+    <string name="Listening">Listening</string>
+    <string name="Record">Record</string>
+    <string name="Function1">Function1</string>
+    <string name="Function2">Function2</string>
+    <string name="Function3">Function3</string>
+
+</resources>
